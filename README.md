@@ -2,6 +2,10 @@
 
 A TypeScript implementation of a Model Context Protocol (MCP) server that integrates with Google's Gemini model using direct API calls.
 
+<a href="https://glama.ai/mcp/servers/@IA-Entertainment-git-organization/gemini-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@IA-Entertainment-git-organization/gemini-mcp-server/badge" alt="Gemini Server MCP server" />
+</a>
+
 ## Features
 
 - Uses direct calls to the Gemini API (no deprecated SDK)
